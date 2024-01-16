@@ -1,0 +1,22 @@
+{
+  "name": "jabbar_calculator",
+  "version": "1.0.0",
+  "description": "The most accurate Jabbar calculator that's been made by the humankind. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jabbar-hamood/jabbar_calculator.git"
+  },
+  "keywords": [
+    "Jabbar"
+  ],
+  "author": "Anonymous Jabbar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jabbar-hamood/jabbar_calculator/issues"
+  },
+  "homepage": "https://github.com/jabbar-hamood/jabbar_calculator#readme"
+}
